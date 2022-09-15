@@ -1,4 +1,4 @@
-package com.crudapirest.springboot;
+package com.crudapirest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

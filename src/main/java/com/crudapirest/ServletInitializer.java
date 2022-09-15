@@ -1,4 +1,4 @@
-package com.crudapirest.springboot;
+package com.crudapirest;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
